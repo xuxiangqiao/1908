@@ -18,6 +18,7 @@ class GoodsController extends Controller
      */
     public function index()
     {
+        echo 123;
        //  // 全局辅助函数 设置
        // // session(['name'=>'zhangsan']);
        // // request()->session()->save();
